@@ -14,7 +14,7 @@ Note taking application designed to write, save, delete notes, and retrieved fro
 # Installation
 
 # Usage
-* Video Link: https://drive.google.com/drive/folders/1y4tGYjaNBtDVgRyiQWS9hzoITDR2yQ1Q?usp=sharing
+* Video Link: https://drive.google.com/file/d/1rjaJt9Wy38awfaWJLe8-k8uOsjZ5Ulls/view?usp=sharing
 # License
 MIT License
 
